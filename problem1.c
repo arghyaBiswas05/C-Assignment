@@ -21,4 +21,6 @@ int main()
 	}
 
 	printf("Need to flip %d bits\n",count);
+
+	return 0;
 }
